@@ -97,13 +97,7 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-
-<img src="https://github.com/feroz-hub/feroz-hub/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=feroz-hub&show_icons=true&hide_title=true"/>
-
+  <img src="https://raw.githubusercontent.com/feroz-hub/feroz-hub/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </div>
 
 ---
