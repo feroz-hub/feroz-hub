@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt=""/> 
   <h1>Hi, I’m Feroze</h1>
 
   <a href="https://git.io/typing-svg">
@@ -53,8 +53,8 @@
 
 <div align="center">
 
-| **Backend & Core** | **Cloud & DevOps** | **Databases** | **Testing** |
-|:---:|:---:|:---:|:---:|
+|                               **Backend & Core**                               |                                 **Cloud & DevOps**                                 |                             **Databases**                              |                               **Testing**                               |
+|:------------------------------------------------------------------------------:|:----------------------------------------------------------------------------------:|:----------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
 | <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" width="150"/> | <img src="https://skillicons.dev/icons?i=azure,docker,githubactions" width="150"/> | <img src="https://skillicons.dev/icons?i=postgres,mssql" width="100"/> | <img src="https://skillicons.dev/icons?i=selenium,python" width="100"/> |
 
 <br/>
@@ -89,13 +89,9 @@
 
 <div align="center">
 
-<a href="https://github.com/feroz-hub">
-  <img src="https://github-readme-stats.vercel.app/api?username=feroz-hub&show_icons=true&theme=midnight-purple&hide_title=true&count_private=true" height="160" alt="stats graph" />
-</a>
-<a href="https://github.com/feroz-hub">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feroz-hub&layout=compact&theme=midnight-purple&hide_title=true" height="160" alt="languages graph" />
-</a>
-
+<div align="center">
+  <img src="https://github.com/feroz-hub/feroz-hub/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 </div>
 
 ---
