@@ -1,87 +1,124 @@
-# Hi, I’m Feroze 👋  
+<div align="center">
 
-🚀 .NET Backend Developer | Clean Architecture | Microservices | SQL | Azure  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+  <h1>Hi, I’m Feroze</h1>
 
-I’m a passionate backend developer with **3.5+ years of experience** building scalable, maintainable applications using modern .NET technologies.  
-I strongly believe in **clean code, solid fundamentals, and real-world learning**.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=512BD4&center=true&vCenter=true&width=500&lines=.NET+Backend+Developer;Clean+Architecture+Enthusiast;Microservices+%26+Azure;Building+Scalable+Systems" alt="Typing SVG" />
+  </a>
+
+  <p>
+     <em>Building scalable, maintainable backend systems with modern .NET technologies. <br/> 
+     Strong believer in <b>clean code, solid fundamentals, and real-world learning</b>.</em>
+  </p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/ferozebasha/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://feroz-hub.github.io/Portfolio" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=fortinet&logoColor=white" alt="Portfolio"/>
+    </a>
+    <a href="https://medium.com/@ferozebasha" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+    </a>
+    <a href="https://www.upwork.com/freelancers/ferozebasha" target="_blank">
+      <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Upwork"/>
+    </a>
+  </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
-- 💼 3.5+ years of professional experience in **C# & .NET**
-- 🧱 Strong believer in **Clean Architecture, SOLID & CQRS**
-- 📘 Building **open-source learning roadmaps** for developers
-- 🎯 Focused on **interview-ready, real-world projects**
-- 🌱 Always improving communication, system design & depth
+
+<table>
+  <tr>
+    <td valign="top">
+      <ul>
+        <li>💼 <b>3.5+ years</b> of professional experience in <b>C# & .NET</b></li>
+        <li>🧱 Strong believer in <b>Clean Architecture, SOLID & CQRS</b></li>
+        <li>📘 Building <b>open-source learning roadmaps</b> for developers</li>
+        <li>🎯 Focused on <b>interview-ready, real-world projects</b></li>
+        <li>🌱 Continuously improving <b>communication & system design</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
-**Backend & APIs**
-- C#, ASP.NET Core, Web API
-- Minimal APIs, MediatR, CQRS
-- Dapper, Entity Framework Core
+<div align="center">
 
-**Architecture & Design**
-- Clean Architecture
-- SOLID Principles
-- Microservices
-- Vertical Slice Architecture
+| **Backend & Core** | **Cloud & DevOps** | **Databases** | **Testing** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio" width="150"/> | <img src="https://skillicons.dev/icons?i=azure,docker,githubactions" width="150"/> | <img src="https://skillicons.dev/icons?i=postgres,mssql" width="100"/> | <img src="https://skillicons.dev/icons?i=selenium,python" width="100"/> |
 
-**Databases**
-- SQL Server
-- PostgreSQL
+<br/>
 
-**Cloud & DevOps**
-- Docker
-- Azure
-- CI/CD basics
+**Architecture & Concepts**
+<br/>
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-informational?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID-Principles-success?style=flat-square)
+![CQRS](https://img.shields.io/badge/Pattern-CQRS-blueviolet?style=flat-square)
+![Microservices](https://img.shields.io/badge/Architecture-Microservices-blue?style=flat-square)
 
-**Testing & Automation**
-- xUnit
-- Selenium (Python)
+</div>
 
 ---
 
 ## 📌 Featured Projects & Learning Roadmaps
 
-🔹 **C# Master Roadmap**  
-Complete C# learning path from basics to advanced, interview-focused.
+> **Interview-focused • Real-world • Step-by-step**
 
-🔹 **SQL Master Roadmap**  
-Deep SQL practice covering queries, performance, indexing & real use cases.
+| Project / Roadmap | Description |
+| :--- | :--- |
+| 🔹 **[C# Master Roadmap](https://github.com/feroz-hub)** | Complete C# learning path from fundamentals to advanced concepts. |
+| 🔹 **[SQL Master Roadmap](https://github.com/feroz-hub)** | Deep SQL practice covering queries, joins, performance & indexing. |
+| 🔹 **[LINQ Master Roadmap](https://github.com/feroz-hub)** | End-to-end LINQ learning with real examples and interview scenarios. |
+| 🔹 **[SOLID Principles](https://github.com/feroz-hub)** | Practical SOLID implementations with refactoring and explanations. |
 
-🔹 **LINQ Master Roadmap**  
-End-to-end LINQ learning with examples and interview scenarios.
-
-🔹 **SOLID Principles – Real World C#**  
-Practical implementation of SOLID principles with refactoring examples.
-
-👉 Explore all repositories here:  
-https://github.com/feroz-hub
+👉 **Explore all repositories:** [github.com/feroz-hub](https://github.com/feroz-hub)
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=feroz-hub&show_icons=true&hide_title=true)
+## 📈 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/feroz-hub">
+  <img src="https://github-readme-stats.vercel.app/api?username=feroz-hub&show_icons=true&theme=midnight-purple&hide_title=true&count_private=true" height="160" alt="stats graph" />
+</a>
+<a href="https://github.com/feroz-hub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feroz-hub&layout=compact&theme=midnight-purple&hide_title=true" height="160" alt="languages graph" />
+</a>
+
+</div>
 
 ---
 
 ## ✍️ Writing & Knowledge Sharing
-- 📖 Writing about **.NET, SQL & career growth**
-- 🎯 Focused on **simple explanations & real-world clarity**
+
+I write about **.NET, SQL & backend engineering**, focusing on simple explanations and real-world clarity to help developers learn deeply.
+
+* 📖 **Medium:** [Read my articles](https://medium.com/@ferozebasha)
+* 💻 **Portfolio:** [Check my work](https://feroz-hub.github.io/Portfolio)
 
 ---
 
-## 🤝 Let’s Connect
-- 🌐 **Portfolio** – https://feroz-hub.github.io/Portfolio  
-- 💼 **LinkedIn** – https://www.linkedin.com/in/ferozebasha/  
-- 💻 **GitHub** – https://github.com/feroz-hub  
-- ✍️ **Medium** – https://medium.com/@ferozebasha  
-- 💼 **Upwork** – https://www.upwork.com/freelancers/ferozebasha  
+<div align="center">
 
----
+### 🤝 Let's work together!
 
-⭐ If you find my repositories useful, feel free to **star them**  
-📬 Open to **Backend / .NET opportunities**
+<p align="center">
+  Open to <b>Backend / .NET opportunities & freelance projects</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=512BD4&height=100&section=footer"/>
+</p>
+
+</div>
