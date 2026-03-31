@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  FEROZE BASHA — SYSTEM ARCHITECTURE DOCUMENT v2.0                        ║ -->
-<!-- ║  Last compiled: 2026 | Runtime: .NET 8 | Status: OPERATIONAL             ║ -->
+<!-- ║  FEROZE BASHA — SYSTEM ARCHITECTURE DOCUMENT v2.0                      ║ -->
+<!-- ║  Last compiled: 2026 | Runtime: .NET 8 | Status: OPERATIONAL           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<a href="https://futurebeyondtech.com"><img src="https://img.shields.io/badge/⚡_FUTURE_BEYOND_TECH-LIVE-512BD4?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://futurebeyondtech.com"><img src="https://img.shields.io/badge/%E2%9A%A1_FUTURE_BEYOND_TECH-LIVE-512BD4?style=for-the-badge&labelColor=0d1117" /></a>
 <a href="https://www.linkedin.com/in/ferozebasha/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
 <a href="https://medium.com/@ferozebasha"><img src="https://img.shields.io/badge/MEDIUM-READ-E6EDF3?style=for-the-badge&logo=medium&logoColor=white&labelColor=0d1117" /></a>
 <a href="mailto:feroze@futurebeyondtech.com"><img src="https://img.shields.io/badge/EMAIL-ENGAGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
@@ -49,7 +49,7 @@
 ```csharp
 public sealed class FerozeBashaProfile : IArchitect, IFounder
 {
-    public string Role        => "Founder & Lead Architect";
+    public string Role        => "CEO & Lead Architect";
     public string Company     => "Future Beyond Tech (FBT)";
     public string Base        => "Chennai, Tamil Nadu 🇮🇳";
     
@@ -82,28 +82,28 @@ public sealed class FerozeBashaProfile : IArchitect, IFounder
 
 ```
                     ╭─────────────────────────────────────────╮
-                    │           🎯 PRESENTATION LAYER         │
+                    │           🎯 PRESENTATION LAYER          │
                     │     Next.js 14  ·  React Native/Expo    │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          🔐 IDENTITY LAYER (Zentra)     │
+                    │          🔐 IDENTITY LAYER (Zentra)      │
                     │    OAuth 2.0  ·  OIDC  ·  JWT  ·  mTLS  │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          ⚡ APPLICATION LAYER            │
+                    │          ⚡ APPLICATION LAYER             │
                     │   CQRS  ·  MediatR  ·  Vertical Slices  │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          🏛️ DOMAIN LAYER                │
-                    │     DDD  ·  Aggregates  ·  Value Objects│
+                    │          🏛️ DOMAIN LAYER                 │
+                    │     DDD  ·  Aggregates  ·  Value Objects │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          💾 INFRASTRUCTURE LAYER        │
-                    │  PostgreSQL  ·  Redis  ·  EF Core  ·  ☁️│
+                    │          💾 INFRASTRUCTURE LAYER          │
+                    │  PostgreSQL  ·  Redis  ·  EF Core  ·  ☁️  │
                     ╰─────────────────────────────────────────╯
 ```
 
@@ -296,7 +296,7 @@ delivery:
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=feroz-hub&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=512BD4&icon_color=512BD4&text_color=8b949e&ring_color=512BD4&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=feroz-hub&theme=github-dark-blue&hide_border=true&background=0D1117&ring=512BD4&fire=512BD4&currStreakLabel=E6EDF3&sideLabels=8b949e&currStreakNum=E6EDF3&dates=8b949e&sideNums=E6EDF3&stroke=21262d" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=feroz-hub&theme=github-dark-blue&hide_border=true&background=0D1117&ring=512BD4&fire=512BD4&currStreakLabel=E6EDF3&sideLabels=8b949e&currStreakNum=E6EDF3&dates=8b949e&sideNums=E6EDF3&stroke=21262d" />
 
 </div>
 
@@ -383,7 +383,7 @@ delivery:
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║   "Systems that survive scale are built on architectural          ║
-║    clarity, not heroic engineering."                              ║
+║    clarity, not heroic engineering."                               ║
 ║                                                                   ║
 ║   ┌─────────────────────────────────────────────────────────┐     ║
 ║   │  🌐  futurebeyondtech.com          — Portfolio & Blog   │     ║
@@ -399,7 +399,7 @@ delivery:
 
 <br/>
 
-<a href="https://futurebeyondtech.com"><img src="https://img.shields.io/badge/🚀_SCHEDULE_CONSULTATION-512BD4?style=for-the-badge&labelColor=0d1117" /></a>
+<a href="https://futurebeyondtech.com"><img src="https://img.shields.io/badge/%F0%9F%9A%80_SCHEDULE_CONSULTATION-512BD4?style=for-the-badge&labelColor=0d1117" /></a>
 
 </div>
 
