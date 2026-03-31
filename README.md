@@ -49,7 +49,7 @@
 ```csharp
 public sealed class FerozeBashaProfile : IArchitect, IFounder
 {
-    public string Role        => "CEO & Lead Architect";
+    public string Role        => "Founder & Lead Architect";
     public string Company     => "Future Beyond Tech (FBT)";
     public string Base        => "Chennai, Tamil Nadu 🇮🇳";
     
