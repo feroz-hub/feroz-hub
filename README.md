@@ -1,6 +1,6 @@
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║  FEROZE BASHA — SYSTEM ARCHITECTURE DOCUMENT v2.0                      ║ -->
-<!-- ║  Last compiled: 2026 | Runtime: .NET 8 | Status: OPERATIONAL           ║ -->
+<!-- ║  FEROZE BASHA — SYSTEM ARCHITECTURE DOCUMENT v2.0                        ║ -->
+<!-- ║  Last compiled: 2026 | Runtime: .NET 8 | Status: OPERATIONAL             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
@@ -82,28 +82,28 @@ public sealed class FerozeBashaProfile : IArchitect, IFounder
 
 ```
                     ╭─────────────────────────────────────────╮
-                    │           🎯 PRESENTATION LAYER          │
+                    │           🎯 PRESENTATION LAYER         │
                     │     Next.js 14  ·  React Native/Expo    │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          🔐 IDENTITY LAYER (Zentra)      │
+                    │          🔐 IDENTITY LAYER (Zentra)     │
                     │    OAuth 2.0  ·  OIDC  ·  JWT  ·  mTLS  │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          ⚡ APPLICATION LAYER             │
+                    │          ⚡ APPLICATION LAYER            │
                     │   CQRS  ·  MediatR  ·  Vertical Slices  │
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          🏛️ DOMAIN LAYER                 │
-                    │     DDD  ·  Aggregates  ·  Value Objects │
+                    │          🏛️ DOMAIN LAYER                │
+                    │     DDD  ·  Aggregates  ·  Value Objects│
                     ╰────────────────────┬────────────────────╯
                                          │
                     ╭────────────────────┴────────────────────╮
-                    │          💾 INFRASTRUCTURE LAYER          │
-                    │  PostgreSQL  ·  Redis  ·  EF Core  ·  ☁️  │
+                    │          💾 INFRASTRUCTURE LAYER        │
+                    │  PostgreSQL  ·  Redis  ·  EF Core  ·  ☁️│
                     ╰─────────────────────────────────────────╯
 ```
 
@@ -383,7 +383,7 @@ delivery:
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
 ║   "Systems that survive scale are built on architectural          ║
-║    clarity, not heroic engineering."                               ║
+║    clarity, not heroic engineering."                              ║
 ║                                                                   ║
 ║   ┌─────────────────────────────────────────────────────────┐     ║
 ║   │  🌐  futurebeyondtech.com          — Portfolio & Blog   │     ║
